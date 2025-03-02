@@ -39,14 +39,14 @@ This assignment should prove that a student is able to:
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [x] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
+- [x] All the tasks of the "Specific requirements" section MUST be solved
 - [x] The project's file/folder structure should NOT be edited!
 - [x] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
 - [x] VSCode IDE MUST have 0 problems listed
 - [x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
 - [x] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -70,12 +70,12 @@ This assignment should prove that a student is able to:
   - [x] Nose
   - [x] Mouth
   - [x] Teeth/tooth
-  - [ ] **!!!Optional** Add any other part you want.
+  - [x] **!!!Optional** Add any other part you want.
 - [x] Create unique random shapes for the following external elements of the face:
   - [x] Hair style
   - [x] Left ear
   - [x] Right ear
-  - [ ] **!!!Optional** Add any other part you want.
+  - [x] **!!!Optional** Add any other part you want.
 - [x] Shapes must follow the guidelines:
   - [x] Each shape must be unique. It is permissible to use the same shape for two paired face elements, but they must have different orientations or directions.
   - [x] Use the following types of shapes:
@@ -90,9 +90,9 @@ This assignment should prove that a student is able to:
   - [x] The width and / or height height of at least one shape should be based on the percentage units relative to the dimensions of the face shape.
   - [x] The width and / or height of at least one shape should be based on relative units relative to the font size.
   - [x] At least one shape should have an opacity of 50% or be semi-transparent.
-- [ ] Position the shapes inside or outside the face shape according to the following guidelines:
-  - [ ] In-face elements should be positioned in relation to their static position.
-  - [ ] External face shapes should be positioned in relation to the robot container or the face shape.
+- [x] Position the shapes inside or outside the face shape according to the following guidelines:
+  - [x] In-face elements should be positioned in relation to their static position.
+  - [x] External face shapes should be positioned in relation to the robot container or the face shape.
 
 `For the Legal Page exercise`
 
